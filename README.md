@@ -1,12 +1,13 @@
 # COVID-19-Data-EDA-ML-Tweets-Keywords-Topic-Modeling
 
 This project contains 
-1. COVID-19 Confirmed Prediction ML
-2. COVID-19 Data EDA
-3. COVID-19 Data Visualization
-4. COVID-19 Tweets Keywords Topic Modeling  
+* COVID-19 Data Scraping and Simple Visualization  
+* COVID-19 Data Preprocessing  
+* COVID-19 Confirmed Prediction ML  
+* COVID-19 Data Visualization using Plotly, Cufflinks, Folium  
+* COVID-19 Tweets Keywords Topic Modeling  
 
-COVID-data-Timeline Visualization by Plotly
+COVID-data-Timeline Visualization
 
 
 ![covid-timeline1](https://user-images.githubusercontent.com/20104945/91414000-e268c480-e886-11ea-9f28-944b6ec752c9.png)
@@ -15,14 +16,14 @@ COVID-data-Timeline Visualization by Plotly
 
 
 
-COVID-data-Bubble Chart by Plotly
+COVID-data-Bubble Chart
 
 
 ![covid-bubble_chart](https://user-images.githubusercontent.com/20104945/91413998-e1379780-e886-11ea-8fba-7849da5f3e2c.png)
 
 
 
-COVID-Infection Situation Global Map by Folium
+COVID-Infection Situation Global Map
 
 
 ![folium_global](https://user-images.githubusercontent.com/20104945/91414018-e72d7880-e886-11ea-97d4-ec9037e65589.PNG)
